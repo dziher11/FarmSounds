@@ -1,0 +1,10 @@
+# Ignore all project source files and build artifacts
+/*
+
+# Whitelist privacy policy, documentation and git config
+!/.gitignore
+!/README.md
+!/index.html
+!/privacy-policy.html
+!/docs/
+!/docs/**
